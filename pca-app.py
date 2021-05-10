@@ -13,7 +13,7 @@ scatter_column.title("PCA for Multi-Dimensional Analysis demo")
 
 scatter_column.write("Here we perform Dimentionality reduction using PCA where we reduce a Multi-Dimensional dataset to 2 dimentions for the purpose of visualization.")
 
-scatter_column.write("The first 2 principle components (PCA 1 and PCA 2) contain the direction with the maximum variance and hence provide the most useful information when visualized on a 2-D scale.")
+scatter_column.write("The first 2 principal components (PCA 1 and PCA 2) contain the direction with the maximum variance and hence provide the most useful information when visualized on a 2-D scale.")
 scatter_column.write("Here iris dataset is selected by default. You can upload your own dataset under the settings column on the right.")
 scatter_column.write("For iris dataset 4 columns namely sepal_length , sepal_width , petal_length , petal_width (as seen in raw data section) is reduced to its principle components and the top two (PCA 1 and PCA 2) is plotted on the 2-D scale. Thus reducing it from 4-D to 2-D for visualization.")
 settings_column.title("Settings")
@@ -59,7 +59,7 @@ def perform_pca(data_import):
 
 	st.write(bar_chart)
 
-	st.write("Here we see the impact of different variables for each principle component(here PCA component 0 represents PCA 1)")
+	st.write("Here we see the impact of different variables for each principal component(here PCA component 0 represents PCA 1)")
 	
 	
 time.sleep(5)
