@@ -1,7 +1,7 @@
 # PCA-streamlit
 Streamlit web-app to demonstrate Principle Component analysis
 
-Link to the app: https://share.streamlit.io/kssubhodh/pca-streamlit/main/pca-app.py
+Link to the app:https://pca-app-bwrwnmxsncqjqcekasktag.streamlit.app/
 
 
 function.py file contains the actual implementaion of PCA
