@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-from function.py import pca_maker
+from function import pca_maker
 from sklearn.decomposition import PCA
 import numpy as np
 import time
