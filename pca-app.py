@@ -6,6 +6,7 @@ from sklearn.decomposition import PCA
 import numpy as np
 import time
 pip install --use-pep517
+pip install ez_setup
 
 st.set_page_config(layout="wide")
 scatter_column, settings_column = st.beta_columns((4, 1))
