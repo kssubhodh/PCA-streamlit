@@ -1,8 +1,5 @@
 plotly
 scipy
 pandas
-Flask
-flask-cors
-pyforest
 scikit-learn
 streamlit
