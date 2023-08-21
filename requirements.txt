@@ -1,5 +1,8 @@
-pandas==0.23.4
-plotly==4.14.3
-scikit-learn==0.20.2
-numpy==1.15.4
-streamlit==0.81.1
+plotly
+scipy
+pandas
+Flask
+flask-cors
+pyforest
+scikit-learn
+streamlit
