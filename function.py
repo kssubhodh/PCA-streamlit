@@ -4,6 +4,7 @@ import plotly.express as px
 from sklearn.decomposition import PCA
 from sklearn.preprocessing import StandardScaler
 import numpy as np
+pip install ez_setup
 
 def pca_maker(data_import):
     numerical_columns_list = []
